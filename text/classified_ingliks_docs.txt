@@ -151,7 +151,7 @@ o - ჲ # noname
 ɐ - q # "këq"
 
 a - ɐ # noname
-ɶ - ჲ # noname 
+ɶ - ჲ # noname
 
 ɑ - ä # "ä"
 ɒ - o # "ot"

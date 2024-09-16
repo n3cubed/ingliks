@@ -1,6 +1,6 @@
 import http.server
 import socketserver
-from py.iŋgliks import Translator
+from py.ingliks import Translator
 import json
 from datetime import datetime
 
