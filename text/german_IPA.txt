@@ -1,0 +1,108 @@
+Plosive:
+p - p
+b - b
+
+t - t
+d - d
+
+c - kë
+
+k - k
+ɡ - g
+
+ʔ - -
+
+Nasal:
+m - m
+n - n
+ŋ - ŋ
+
+Fricative:
+v - v
+
+θ - þ
+ð - ð
+
+s - s
+z - z
+
+ʃ - x
+ʒ - z̈
+
+ç - ẍ
+
+x - ϙ
+
+ʁ - 𐑙
+
+h - h
+
+Approximant:
+ɹ - r
+
+j - ë
+
+Lateral approximant:
+l - l
+
+Affricate:
+pf - pf
+dʒ - j
+
+Unknown:
+w - w
+
+Long vowels:
+aː - ä
+ɛː - e'
+eː - ε
+iː - ï
+oː - o
+ɔː - ö
+øː - ø
+uː - u
+yː - u
+
+Dipthongs:
+aɪ - äï
+aʊ - au
+ɔʏ - öï
+ɛɪ - eï
+ɔʊ - qu
+
+Vowels
+a - ɐ
+ɛ	- e
+e	- ε
+ɪ - i
+i	- ï
+ɔ - o
+ø	- ø
+o	- ჲ
+ə - q
+ɐ - q
+œ	- q
+u	- u
+y - u
+ʊ	- ü
+ʏ	- ü
+
+Nasalised vowels:
+ã -
+ɛ̃	-
+õ -
+œ̃ -
+
+Nasalised long vowels:
+ãː -
+ɛ̃ː -
+õː -
+œ̃ː -
+
+Vowels I have no idea:
+ɐ̯ - q
+i̯ - ï
+o̯ - ჲ
+u̯ - u
+p - p
+y̑	- u

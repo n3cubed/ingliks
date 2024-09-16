@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>English → Ingliks Translator</title>
+   <link rel="stylesheet" href="static/style.css">
+   <!-- <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Outfit"> -->
+   <!-- <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather"> -->
+</head>
+<body>
+   <div id="title">
+     <span id="left">
+       <span>ᛈ</span>
+       <span>ᚱ</span>
+       <span>ᛁ</span>
+       <span>ᛗ</span>
+       <span>ᛟ</span>
+       <span>ᚱ</span>
+       <span>ᛞ</span>
+       <span>ᛁ</span>
+       <span>ᚨ</span>
+       <span>ᛚ</span>
+     </span>
+     <span id="middle">English → iŋgliks</span>
+     <span id="right">
+       <span>ᛈ</span>
+       <span>ᚨ</span>
+       <span>ᚱ</span>
+       <span>ᚨ</span>
+       <span>ᛗ</span>
+       <span>ᛖ</span>
+       <span>ᚲ</span>
+       <span>ᛁ</span>
+       <span>ᚢ</span>
+       <span>ᛗ</span>
+     </span>
+  </div>
+   <div id="translation-container">
+      <div id="input-container">
+         <textarea oninput="auto_grow(this)" type="text" id="translation-input" class="input-box" placeholder="english"></textarea>
+         <button id="translate" onclick="translate_now()">translate</button>
+         <button id="clear" onclick="clear_field()">clear</button>
+      </div>
+      <textarea oninput="auto_grow(this)" type="text" id="translation-output" class="input-box" placeholder="iŋgliks"></textarea>
+      <div id="warning"></div>
+   </div>
+    <div id="pronunciation-guide-container">
+      <div class="section-title-container" onclick="toggle_section(this)">
+        <div class="section-title">pronunciation guide</div>
+        <button class="section-expand"><span class="expand-arrow"></span></button>
+      </div>
+      <hr>
+      <div class="section-text" id="pronunciation-guide" style="height:0px;">loading...</div>
+    </div>
+    <div id="info-container">
+      <div class="section-title-container" onclick="toggle_section(this)">
+        <div class="section-title">info</div>
+        <button class="section-expand"><span class="expand-arrow"></span></button>
+      </div>
+      <hr>
+      <div class="section-text" id="info" style="height:0px;">loading...</div>
+      </div>
+    </div>
+    <div id="feedback-container">
+      <div id="input-container">
+        <textarea oninput="auto_grow(this)" type="text" id="feedback" class="input-box" placeholder="feedback"></textarea>
+        <button onclick="send_feedback()">send feedback</button>
+      </div>
+    </div>
+    <hr>
+    <div id="footer">
+      <span id="footer-left">
+          <span>crafted by</span>
+          <span id="creators-container">
+            <span>qaz</span>
+            <span>AliNevada34<a href="https://www.youtube.com/@alinevada34" target="_blank"><img src="../icons/youtube.svg" alt="Allied's YouTube channel"></a></span>
+          </span>
+        </span>
+      </span>
+      <span id="footer-right">© 2024</span>
+    </div>
+ <script src="static/app.js"></script>
+</body>
+</html>

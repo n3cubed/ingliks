@@ -1,0 +1,45 @@
+[PRONUNCIATION GUIDE]
+/start
+`a` - *a*sh
+`ä` - c*a*r - This letter can change your spelling depending on how you pronounce the word. E.g. "bäth" / "bath"
+`b` - *b*ug
+`c` - *ch*air - This does not make the regular `/k/` sound. It now makes a "ch" sound.
+`d` - *d*oor
+`e` - *e*gg
+`ë` - *y*es - Replaces the letter "y".
+`f` - *f*ig
+`g` - *g*irl
+`h` - *h*ill
+`i` - *i*nto - makes the "i" sound.
+`ï` - tr*ee* - makes the very common "ee" sound.
+`j` - *j*ug
+`k` - *c*at - Any `k` replaces `c` in English only if it makes the `/k/` sound. words like "concept" would be spelt like "konsept" in iŋgliks.
+`l` - *l*ike
+`m` - *m*ove
+`n` - *n*ice
+`ŋ` - thi*n*g - This letter is one of those nasal sounds like `m` and `n`.
+`o` - *o*nto
+`ö` - *or* - Literally makes the `or` sound.
+`p` - *p*ie
+`q` - *u*pon - Makes the most common sound in the english alphabet `/ə‍/` (schwa). Wow, `q` really went from rags to riches.
+`r` - *r*otate
+`s` - *s*ee
+`t` - *t*ie
+`þ` - *th*ink - Makes a soft "th" sound.
+`ð` - *th*is - Makes a voiced "th" sound.
+`u` - f*oo*d - *oo*ps - Makes the "oo" sound rather than the `u` sound. This is for consistency with many other languages.
+`ü` - b*oo*k
+`v` - *v*ase
+`w` - *w*hen
+`x` - *sh*irt - Why doesn't English have a letter for this sound?
+`y` - f*u*n - This is another one of those confusing letters. The old "y" sound is replaced with `ë`.
+`z` - *z*oo
+`z̈` - vi*s*ion - This letter is not on keyboards so it's best you type it as `ž`. Or you could copy and paste it from the examples below.
+/end
+
+[NEW LETTERS]
+Here are all of the new letters. Click on them to copy.
+copy(ä) copy(ë) copy(ï) copy(ö) copy(ü) copy(z̈) copy(ž) copy(ŋ) copy(þ) copy(ð)
+
+You don't really need the capital letters, but here they are anyway, if you really want them.
+copy(Ä) copy(Ë) copy(Ï) copy(Ö) copy(Ü) copy(Z̈) copy(Ž) copy(Ŋ) copy(Þ) copy(Ð)

@@ -1,0 +1,296 @@
+Iŋgliks is (mostly) made for european countries.
+
+ANY SOUNDS FROM NON-EUROPEAN COUNTRIES WILL NOT BE ADDED TO IŊGLIKS. ˙◠˙
+- working on adding them (they may be pretty messed up).
+
+Plosive:
+p - p # "pï"
+b - b # "bï"
+
+t - t # "tï"
+d - d # "dï"
+
+ʈ - t # "tï"
+ɖ - d # "dï"
+
+c - kë # NA
+ɟ - gë # NA
+
+k - k # "keï"
+g - g # "jïg"
+
+q - k̈ # "k̈ï"
+ɢ - g̈ # "g̈ï"
+
+ʔ - - # "dax"
+
+Nasal:
+m - m # "em"
+ɱ - m # "em"
+n - n # "en"
+ɳ - n # "en"
+ɲ - në # NA
+ŋ - ŋ # "eŋ"
+ɴ - ɴ # "ɴot"
+
+Trill:
+ʙ - b' # "bï präïm"
+r - ʀ # "ʀo"
+ʀ - ʀ # "ʀo"
+
+Tap or Flap:
+ⱱ - b̈ - "b̈at"
+ɾ - r̈ # "r̈qu" / "r̈ჲ"
+ɽ - r # "rqu"
+
+Fricative:
+ɸ - f̈ # "f̈äï"
+β - v̈ # "v̈äï"
+
+f - f # "ef"
+v - v # "vï"
+
+θ - þ # "þön"
+ð - ð # "eð"
+
+s - s # "es"
+z - z # "zï"
+
+ʃ - x # "ex"
+ʒ - z̈ # "z̈et"
+
+ʂ - x # "ex"
+ʐ - z̈ # "z̈et"
+
+ç - ç # "eç"
+ʝ - ƶ # "ƶet"
+
+x - ϙ # "ϙop"
+ɣ - ɣ # "oɣ"
+
+χ - ж # "iж"
+ʁ - 𐑙 # "𐑙ata𐑙ïka𐑙aka𐑙otono𐑙"
+
+ħ - h # "heïc"
+ʕ - o # "ot"
+
+h - h # "heïc"
+ɦ - h' # "heïc präïm"
+
+Lateral Fricative:
+ɬ - xl # NA
+ɮ - z̈l # NA
+
+Approximant:
+ʋ - vw # NA
+ɹ - r # "rqu"
+ɻ - r # "rqu"
+j - ë # "ëö"
+ɰ - փ # "փat"
+
+Lateral Approximant:
+l - l # "el"
+ɭ - l # "el"
+ʎ - lë # NA
+ʟ - lփ # NA
+
+Other symbols:
+ʍ - ϙw # NA
+w - w # "win"
+ɥ - u # "u"
+ʜ - 𐑙 # "𐑙ata𐑙ïka𐑙aka𐑙otono𐑙"
+ʢ - 𐑙 # "𐑙ata𐑙ïka𐑙aka𐑙otono𐑙"
+ʡ - - # "dax"
+ɕ - x # "ex"
+ʑ - z̈ # "z̈et"
+ɺ - r̈ # "r̈qu" / "r̈ჲ"
+ɧ - ϙ # "ϙop"
+
+
+
+
+
+Vowel sounds:
+
+i - ï # "äï"
+y - ÿ # noname
+
+ɨ - ï # "äï"
+ʉ - ÿ # noname
+
+ɯ - γ # noname
+u - u # "u"
+
+ɪ - i # "tik"
+ʏ - ü # "üx"
+
+ʊ - ü # "üx"
+
+e - ε # noname
+ø - ø # noname
+
+ɘ - i # "tik"
+ɵ - ö # "ö"
+
+ɤ - γ # noname
+o - ჲ # noname
+
+ə - q # "këq"
+
+ɛ - e # "ek"
+œ - q # "këq"
+
+ɜ - q' # "këq präïm"
+ɞ - ü # "üx"
+
+ʌ - y # "stryt"
+ɔ - ö # "ö"
+
+æ - a # "ash"
+
+ɐ - q # "këq"
+
+a - ɐ # noname
+ɶ - ჲ # noname 
+
+ɑ - ä # "ä"
+ɒ - o # "ot"
+
+
+
+
+
+Clicks:
+[USED IN SOUTH AFRICAN COUNTRIES]
+ʘ - NO LETTER [no use]
+ǀ - NO LETTER [no use]
+ǃ - NO LETTER [no use]
+ǂ - NO LETTER [no use]
+ǁ - NO LETTER [no use]
+
+
+
+
+
+Voiced implosives:
+ɓ - b # "bï"
+ɗ - d # "dï"
+ʄ - gë # NA
+ɠ - g # "jïg"
+ʛ - g # "jïg"
+
+
+
+
+
+Ejectives:
+pʼ - p- "pï dax"
+tʼ - t- "tï dax"
+kʼ - k- "keï dax"
+sʼ - s- "es dax"
+ʼ - - "dax"
+
+
+
+
+
+Affricates:
+t͡s - ts # NA
+d͡z - dz # NA
+
+t͡ʃ - c # "cï"
+d͡ʒ - j # "jeï"
+
+t͡ɕ - c # "cï"
+d͡ʑ - j # "jeï"
+
+ʈ͡ʂ - ts # NA
+ɖ͡ʐ - dz # NA
+
+
+
+
+
+Diacritics:
+[NOTE: "Diacritics are pretty complicated, So we can just remove them to every langage, What could possibly go wrong?".]
+
+◌̥	Voiceless - NO USE
+◌̤	Breathy voiced - NO USE
+◌̪	Dental - NO USE
+◌̬	Voiced - NO USE
+◌̰	Creaky voiced - NO USE
+◌̺	Apical - NO USE
+◌̼	Linguolabial - NO USE
+◌̻	Laminal - NO USE
+◌̹	More rounded - NO USE
+◌̜	Less rounded - NO USE
+◌̟	Advanced - NO USE
+◌̠	Retracted - NO USE
+◌̚	No audible release - NO USE
+◌̈	Centralized - NO USE
+◌̽	Mid-centralized - NO USE
+◌̝	Raised - NO USE
+◌̩	Syllabic - NO USE
+◌̞	Lowered - NO USE
+◌̯	Non-syllabic - NO USE
+◌̘	Advanced Tongue Root - NO USE
+◌̙	Retracted Tongue Root - NO USE
+
+Extra sounds on letters:
+
+ʰ	Aspirated - [LETTER]h
+ʷ	Labalized - [LETTER]w
+ˡ	Lateral release - [IGNORE]
+ʲ	Palatalized - [LETTER]ë
+ⁿ	Nasal release - [CHANGE LETTER BEFORE TO "-"]
+ˠ	Velarized - [IGNORE]
+ˤ	Pharyngealized - [IGNORE]
+◌̴	Velarized or pharyngealized - [IGNORE]
+◌̃ Nasalized - [IGNORE]
+
+Specifically found in American English:
+
+˞	Rhoticity
+
+ɚ - q̈ # "këq̈"
+ɝ - q̈ # "këq̈"
+
+
+
+
+
+Suprasegmentals:
+
+ˈ - [IGNORE]
+ˌ - [IGNORE]
+ː - [EDIT-SOUND]
+ˑ - [IGNORE]
+◌̆	- [IGNORE]
+.	- [IGNORE]
+‿ - [IGNORE]
+
+| - UNKNOWN
+‖ - UNKNOWN
+
+
+
+
+
+
+Tones and word accents:
+[IGNORE ALL]
+
+e̋	Extra high
+é	High
+ē	Mid
+è	Low
+ȅ	Extra low
+
+ě Rising
+ê	Falling
+
+↓	Downstep
+↑	Upstep
+
+↗	Global rise
+↘	Global fall
