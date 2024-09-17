@@ -19,7 +19,7 @@ function translate_now() {
    input_value = input_value.replace(/[.,\/#?!$@%\^&\*;:{}'=\-_`~()]/g,"")
    input_value = input_value.replace(/\s{2,}/g," ");
    input.value = input_value;
-   fetch('/translate', {
+   fetch('./translate', {
       method: 'POST',
       body: JSON.stringify({'text': input_value}),
       headers: {
@@ -54,7 +54,7 @@ function translate_now() {
 let pronunciation_guide_html = "";
 let info_html = "";
 
-fetch('/pronunciation_guide')
+fetch('./pronunciation_guide')
     .then(response => response.json())
     .then(data => {
         let pronunciation_guide_text = data.pronunciation_guide;
@@ -67,7 +67,7 @@ fetch('/pronunciation_guide')
         console.log(error);
     });
 
-fetch('/info')
+fetch('./info')
     .then(response => response.json())
     .then(data => {
         let info_text = data.info;
@@ -102,7 +102,7 @@ function toggle_section(section_title) {
 function parseToHTML(text) {
     // replace copy(text) with <div class="copy">
     text = text.replace(/copy\((.*?)\)/g, "<span class='copy' onclick='copy_to_clipboard(this.innerText)'>$1</span>");
-    
+
 
     // replace [title]\n with <div class="subsection-title">
     text = text.replace(/\[(.*?)\]\n/g, "<div class='subsection-title'>$1</div>");
@@ -143,7 +143,7 @@ function send_feedback() {
   feedback_text = feedback.value.trim();
   if (feedback_text.length = 0) return;
   feedback.value = "";
-  fetch("/feedback",  {
+  fetch("./feedback",  {
        method: 'POST',
        body: JSON.stringify({'feedback': feedback_text}),
        headers: {

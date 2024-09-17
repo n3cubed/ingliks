@@ -6,15 +6,19 @@ from datetime import datetime
 
 now = datetime.now()
 
-PORT = 8000
+PORT = 49002
 
 translator = Translator()
 
 
 class MyHttpRequestHandler(http.server.SimpleHTTPRequestHandler):
-
   def do_GET(self):
-    print("serve")
+    self.path = self.path.replace("/ingliks","",1);
+    print("serve", self.path)
+    if self.path == '':
+      self.send_response(302)
+      self.send_header('Location', '/ingliks/')
+      self.end_headers()
     if self.path == '/':
       self.path = '/static/index.html'
     elif self.path == '/info':
@@ -38,6 +42,7 @@ class MyHttpRequestHandler(http.server.SimpleHTTPRequestHandler):
     return http.server.SimpleHTTPRequestHandler.do_GET(self)
 
   def do_POST(self):
+    self.path = self.path.replace("/ingliks","",1);
     if self.path == '/translate':
       # Extract and process the POST data
       content_length = int(self.headers['Content-Length'])
