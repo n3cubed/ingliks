@@ -37,30 +37,6 @@ Example: "ei.oh", "ai.au", "oi.uh"
 
 The dots in the previous example -  These dots in some of the examples represent syllable breaks.
 Example: "a.ah.b.ch.d.e.y.f.g.h.i.j.k.l.m.n.ng.o.or.p.uh.r.s.t.th.th.oo.uh.v.w.sh.u.z.zh", "oh.au.ai.oi.ei".
-[NEW NON-ENGLISH LETTERS]
-/start
-Iŋgliks has added *nine* new letters to the english alphabet, each of them having their own distinct sound.
-However, there isn't *just* nine letters, there is a whole set of iŋgliks letters for lots of different languages.
-These extra letters is what I want to talk about here as you can already look up the nine letters in the pronunciation guide.
-(`äëïöüþðŋz̈`)
-
-Now, these letters may not be 100&#37; perfect for EVERY language, however the majority of them should work fine with them. `-they may look really cursed though`.
-`ɐ` - Makes an "Á" sound as in "p*a*tte" (french) - /<a href="https://en.wikipedia.org/wiki/Open_front_unrounded_vowel">a</a>/
-`ε` - Makes an "É" sound as in "j*ä*ger" (german) - /<a href="https://en.wikipedia.org/wiki/Close-mid_front_unrounded_vowel">e</a>/
-`ø` - Makes an "Ø" sound as in "*ø*konomi" (norwegian) - /<a href="https://en.wikipedia.org/wiki/Close-mid_front_rounded_vowel">ø</a>/ or /<a href="https://en.wikipedia.org/wiki/Open-mid_front_rounded_vowel">œ</a>/
-`ჲ` - Makes an "Ó" sound as in "h*o*la" (spanish) - /<a href="https://en.wikipedia.org/wiki/Close-mid_back_rounded_vowel">o</a>/
-`ÿ` - Makes an "Ü" sound as in "*ü*ber" (german) - /<a href="https://en.wikipedia.org/wiki/Close_front_rounded_vowel">y</a>/ or /<a href="https://en.wikipedia.org/wiki/Near-close_near-front_rounded_vowel">ʏ</a>/
-`γ` - Makes an "Ų" sound as in "k*õ*rv" (estonian) - /<a href="https://en.wikipedia.org/wiki/Close_back_unrounded_vowel">ɯ</a>/
-`ϙ` - Makes a "KH" sound as in "τέ*χ*νι" (greek) - /<a href="https://en.wikipedia.org/wiki/Voiceless_velar_fricative">x</a>/
-`ɣ` - Makes a "GH" sound as in "nie*ch*że" (polish) - /<a href="https://en.wikipedia.org/wiki/Voiced_velar_fricative">ɣ</a>/
-`𐑙` - Makes a "RH" sound as in "*r*apide" (french) - /<a href="https://en.wikipedia.org/wiki/Voiced_uvular_fricative">ʁ</a>/
-`փ` - Makes a "GH" sound as in "*g*otyo" (Guarani) - /<a href="https://en.wikipedia.org/wiki/Voiced_velar_approximant">ɰ</a>/
-`r̈` - Makes a "R" sound as in "*r*eden" (dutch) - /<a href="https://en.wikipedia.org/wiki/Voiced_dental_and_alveolar_taps_and_flaps">ɾ</a>/
-`ʀ` - Makes a "RR" sound as in "raaka" (finnish) - /<a href="https://en.wikipedia.org/wiki/Voiced_dental,_alveolar_and_postalveolar_trills#Voiced_alveolar_trill">r</a>/
-
-I know this isn't the best way to describe these sounds as you may need to know alot of different words in different languages.
-This is why I added those weird letters in shashes.
-If you click on those, it will direct you to a link of a sound clip of that sound being pronounced.
 /end
 [CHANGED SOUNDS]
 /start
@@ -190,29 +166,67 @@ All of these letters have a name, and some old ones have new names.
 Here is a list of all of the new names:
 `a` - "Ash"
 `ä` - "Ahh"
+`b` - "Bee" (no change)
 `c` - "Chee"
+`d` - "Dee" (no change)
 `e` - "Ek"
-`ë` - "Your" 
-`g` - "Jeeg"
+`ë` - "Yot" 
+`g` - "Gee"
+`h` - "Haych" (no change)
 `i` - "Tick"
 `ï` - "Eye"
+`j` - "Jay" (no change)
+`k` - "Kay" (no change)
+`l` - "Ell" (no change)
+`m` - "Em" (no change)
+`n` - "En" (no change)
 `ŋ` - "Eng"
 `o` - "Ott"
 `ö` - "Or"
+`p` - "Pii" (no change)
 `q` - "Kyuh"
 `r` - "Ro"
+`s` - "Ess" (no change)
+`t` - "Tee" (no change) 
 `þ` - "Thorn" (soft TH)
 `ð` - "Eth" (voiced TH)
 `u` - "OOOOOO"
 `ü` - "ush" (u is pronounced as the 'oo' in 'book')
+`v` - "Vee" (no change)
 `w` - "Win"
 `x` - "Esh"
 `y` - "Strut"
+`z` - "Zee/Zed" (no change)
 `z̈` - "Zhett"
+/end
+[NEW NON-ENGLISH LETTERS]
+/start
+Iŋgliks isn't just a "better" version for English, it's also a better wwy to spell in any language.
+Introducing "Aŋgliks" letters. This is a set of letters that fits for every sound.
+
+Now, these letters may not be 100&#37; perfect for EVERY language.
+An example of this is with sound tones, I don't want to have an individual letter for every single sound tone so languages like chinese won't work with this, however the majority of them should work fine with them. `-they may look really cursed though`.
+`ɐ` - Makes an "Á" sound as in "p*a*tte" (french) - /<a href="https://en.wikipedia.org/wiki/Open_front_unrounded_vowel">a</a>/
+`ε` - Makes an "É" sound as in "j*ä*ger" (german) - /<a href="https://en.wikipedia.org/wiki/Close-mid_front_unrounded_vowel">e</a>/
+`ø` - Makes an "Ø" sound as in "*ø*konomi" (norwegian) - /<a href="https://en.wikipedia.org/wiki/Close-mid_front_rounded_vowel">ø</a>/ or /<a href="https://en.wikipedia.org/wiki/Open-mid_front_rounded_vowel">œ</a>/
+`ჲ` - Makes an "Ó" sound as in "h*o*la" (spanish) - /<a href="https://en.wikipedia.org/wiki/Close-mid_back_rounded_vowel">o</a>/
+`ÿ` - Makes an "Ü" sound as in "*ü*ber" (german) - /<a href="https://en.wikipedia.org/wiki/Close_front_rounded_vowel">y</a>/ or /<a href="https://en.wikipedia.org/wiki/Near-close_near-front_rounded_vowel">ʏ</a>/
+`γ` - Makes an "Ů" sound as in "k*õ*rv" (estonian) - /<a href="https://en.wikipedia.org/wiki/Close_back_unrounded_vowel">ɯ</a>/
+`ϙ` - Makes a "KH" sound as in "τέ*χ*νι" (greek) - /<a href="https://en.wikipedia.org/wiki/Voiceless_velar_fricative">x</a>/
+`ɣ` - Makes a "GH" sound as in "nie*ch*że" (polish) - /<a href="https://en.wikipedia.org/wiki/Voiced_velar_fricative">ɣ</a>/
+`𐑙` - Makes a "RH" sound as in "*r*apide" (french) - /<a href="https://en.wikipedia.org/wiki/Voiced_uvular_fricative">ʁ</a>/
+`փ` - Makes a "GH" sound as in "*g*otyo" (Guarani) - /<a href="https://en.wikipedia.org/wiki/Voiced_velar_approximant">ɰ</a>/
+`r̈` - Makes a "R" sound as in "*r*eden" (dutch) - /<a href="https://en.wikipedia.org/wiki/Voiced_dental_and_alveolar_taps_and_flaps">ɾ</a>/
+`ʀ` - Makes a "RR" sound as in "raaka" (finnish) - /<a href="https://en.wikipedia.org/wiki/Voiced_dental,_alveolar_and_postalveolar_trills#Voiced_alveolar_trill">r</a>/
+
+I know this isn't the best way to describe these sounds as you may need to know alot of different words in different languages.
+This is why I added those weird letters in shashes.
+If you click on those, it will direct you to a link of a sound clip of that sound being pronounced.
+The whole point of Aŋgliks is to help people learn how to pronounce non-native words from different languages without struggling too much to learn the voicing rules and new letters.
 /end
 [CLOSURE]
 /start
-Bestowed with great knowledge of iŋgliks, it is up to you, speaker, to carry forth this piece of wisdom to every corner of the language world. For every letter and word, there exists a new story waiting to be told, a joke waiting to be shared, and a pun waiting to be unleashed upon the unsuspecting world.
+"Bestowed with great knowledge of iŋgliks, it is up to you, speaker, to carry forth this piece of wisdom to every corner of the language world. For every letter and word, there exists a new story waiting to be told, a joke waiting to be shared, and a pun waiting to be unleashed upon the unsuspecting world".
 
 <details>
     <summary>What did `e` say to `ï`?</summary>
