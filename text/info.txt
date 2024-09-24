@@ -5,18 +5,18 @@ p.ex1 {
 </style>
 [GENERIC INFO ABOUT IŊGLIKS]
 /start
-- Iŋgliks is a *spelling* language. The pronunciation is the same as regular english no new words have been added, the only thing different is the spelling.
+- Iŋgliks is a *spelling* language. The pronunciation is the same as regular English no new words have been added, the only thing different is the spelling.
 
-- This language has 35 letters (36 if you include the american q̈).
+- This language has 35 letters (36 if you include the American q̈).
 Each of these letters make a completely different sound meaning that no letters nor vowels will make or change any other sound.
-Here is the iŋgliks alphabet:
+Here is the Iŋgliks alphabet:
 `aäbcdeëfghiïjklmnŋoöpqq̈rstþðuüvwxyzz̈'`
 
 - Iŋgliks does not use capital letters. Any name, country or landmark will simply just not have them. The reason for this is quite simple. *CAPITAL LETTERS ARE ABSOLUTELY USELESS.*
 
 - Words like "it's" or "don't" or any other mashed up words will not have an apostrophe in them. The reason for this is pretty complicated so carry on reading if you want to know more.
 
-- That's about it for the generic info on iŋgliks, now it's tome to learn how it works.
+- That's about it for the generic info on Iŋgliks, now it's time to learn how it works.
 /end
 [INFO RULES (MUST READ)]
 /start
@@ -40,7 +40,7 @@ Example: "a.ah.b.ch.d.e.y.f.g.h.i.j.k.l.m.n.ng.o.or.p.uh.r.s.t.th.th.oo.uh.v.w.s
 /end
 [CHANGED SOUNDS]
 /start
-Some letters in the english language are useless.
+Some letters in the English language are useless.
 The most common ones I see is `q` and `x`, but if you think about it for a bit, `c` is also useless (apart from *ch* of course).
 
 Instead of outright removing them from the alphabet. Why don't we give them a new purpose?
@@ -63,7 +63,7 @@ Since `y` has had it's sound changed, is old sound is now spelt with the letter 
 /end
 [THE VOWELS]
 /start
-There are quite a lot of vowels in iŋgliks, and to be honest, this is the only complicated part about the language.
+There are quite a lot of vowels in Iŋgliks, and to be honest, this is the only complicated part about the language.
 There are alot of rules with the vowels and this section will be a guide on how all those rules work.
 
 For those who are *lazy* and *didn't* read the pronunciation guide, here are all the vowels listed:
@@ -73,8 +73,8 @@ And here is their IPA transcriptions (for those nerdy kids who like linguistics)
 /end
 [VOWEL RULE #1: "The Fast-Vowel rule".]
 /start
-Ok, this is the most basic rule in iŋgliks.
-Whenever there are multiple vowels in iŋgliks, you pronounce them as one syllable. *ONE.*
+Ok, this is the most basic rule in Iŋgliks.
+Whenever there are multiple vowels in Iŋgliks, you pronounce them as one syllable. *ONE.*
 
 Here is an example of how the Fast-Vowel rule works:
 `au` is pronounced as "ow"
@@ -82,9 +82,9 @@ It is not pronounced as "a-oo" as that is two syllables.
 
 This also applies to triple vowels.
 However, it is *extremely* hard to pronounce triple vowels in one syllable aswell as getting all of the sounds meshed in a way so that you cannot simplify it into two vowels instead of three.
-So personally, I would say it would be impossible for an iŋgliks word to have a triple vowel pair, which also means that vowel syllable *cannot* exist. Or can they?
+So personally, I would say it would be impossible for an iŋgliks word to have a triple vowel pair, which also means that we cannot have two vowel pairs after each other due to this rule.
 
-Here is a bunch of common vowel pairs that you will normally find in iŋgliks text:
+Here is a bunch of common vowel pairs that you will normally find in Iŋgliks text:
 `qu` - "<a href="https://thesoundofenglish.org/sound-17/">oh</a>"
 `au` - "<a href="https://thesoundofenglish.org/sound-16/">au</a>"
 `äï` - "<a href="https://thesoundofenglish.org/sound-18/">ai</a>"
@@ -94,7 +94,7 @@ Here is a bunch of common vowel pairs that you will normally find in iŋgliks te
 [VOWEL RULE #2 - The Illegal-Pair rule]
 /start
 This is one of those weird rules.
-the vowels `ï` and `u` have shorter variants, these are `ë` and `w`.
+The vowels `ï` and `u` have shorter variants, these are `ë` and `w`.
 To put it short, the letters `ï` and `u` *cannot* be the first vowel in a vowel pair.
 You *must* replace them with `ë` or `w` because of this rule.
 
@@ -105,12 +105,14 @@ As according to the rule, they must be written as `ëq` and `wq`.
 /end
 [THE PRIME]
 /start
-Ok, let's go off the vowel rules for a bit and learn what a prime*'* does.
+Ok, let's go off the vowel rules for a bit and learn what a prime`'` does.
 
 Primes are ESSENTIAL in iŋgliks, they create additional sounds when combined with vowels.
 They serve only two purposes:
 
+/end
 [ELONGATED SOUNDS]
+/start
 There are *three* prime vowels we know of that make unique sounds, them being `e'`, `q'` and `i'`.
 
 Here is an example of what a prime does:
@@ -126,9 +128,10 @@ Here are some examples for the other prime vowels if you still don't get it:
 
 `i` is used in the word "*i*nto",
 `i'` is used in the word "h*ere*".
-
+/end
 [VOWEL SYLLABLES]
-As we discussed previously, the "Fast-Vowel" rule makes it impossible to have syllables in-between two vowel sounds.
+/start
+As we discussed previously, the "Fast-Vowel" rule makes it impossible to have two vowel pairs after each other.
 Example: "ai.oh"
 
 Now there are many words that have vowel syllables, some good examples are "b*io*me", "tr*ia*l" and "m*ayo*nnaise".
@@ -138,32 +141,27 @@ To get around this problem, we can use the prime.
 The prime will simply seperate the vowel chunks into syllables, just like how I seperated all the syllables in the examples with dots.
 
 Now obviously, we're not going to add a prime for EVERY syllable break in EVERY word, that would be unnessecary.
-Instead, we will only use it if it is a vowel chunk(3+ vowels) and not a vowel pair(2 vowels).
+Instead, we will only use it if it is a vowel chunk and not a vowel pair.
 
 Here is an example for what I mean:
 "b*äïqu*m" becomes "b*äï*'*qu*m".
 
 The prime basically seperates the four-vowel chunk into two smaller vowel pairs.
-This is very useful in iŋgliks.
+This is very useful in Iŋgliks.
 /end
-[DOUBLE LETTERS - UNFINISHED & OUTDATED]
+[DOUBLE LETTERS]
 /start
-Double letters are mostly not used in iŋgliks, however, there are some rare cases where they are used.
+Double letters are rarely seen in Iŋgliks, however there are some words with them.
 
-An example of this is in the word "Boo*kk*eeper". If you try and pronounce this word, you will notice that you pronounce the `k` sound twice. There are only a few letters that can be repeated. Mainly the plosive ones such as `p`, `t` and `k`. 
-
-Not all letters can be repeated. If you try to repeat them, you will just be saying a completely different sound. 
-
-An example of this is the letter `g`. To truly repeat this sound you must pronounce it with no vowel sounds in-between it. This includes a tiny /ə/ sound.
-Upon trying to repeat the `g` sound, you will be repeating the `k` sound or a `gə‍gə‍` instead.
-Most of this only applies to the voiced letters (b, d, g...) so any unvoiced ones will most likely be repeatable.
+An example of this is in the word "Boo*kk*eeper". If you try and pronounce this word, you will notice that you pronounce the `k` sound twice.
+As of right now, `bookkeeper` is the only known word in Ingliks to have two letters.
 /end
 [NEW LETTER NAMES]
 /start
-As you know, there are eight new letters that have been added in iŋgliks.
+As you know, there are nine new letters that have been added in Iŋgliks.
 All of these letters have a name, and some old ones have new names.
 
-Here is a list of all of the new names:
+Here is a list of all of the letter names:
 `a` - "Ash"
 `ä` - "Ahh"
 `b` - "Bee" (no change)
@@ -201,11 +199,12 @@ Here is a list of all of the new names:
 /end
 [NEW NON-ENGLISH LETTERS]
 /start
-Iŋgliks isn't just a "better" version for English, it's also a better wwy to spell in any language.
-Introducing "Aŋgliks" letters. This is a set of letters that fits for every sound.
+Iŋgliks isn't just a better way to spell in English, it's also a better way to spell words in *any* language.
+Introducing "Aŋgliks" letters. This is a set of letters in Iŋgliks that fits for (almost) every sound from every language.
 
 Now, these letters may not be 100&#37; perfect for EVERY language.
-An example of this is with sound tones, I don't want to have an individual letter for every single sound tone so languages like chinese won't work with this, however the majority of them should work fine with them. `-they may look really cursed though`.
+An example of this is with sound tones, I don't want to have an individual letter for every single sound tone so languages like Chinese won't work with this, however the majority of them should work fine with them.
+`-they may look extremely cursed though`.
 `ɐ` - Makes an "Á" sound as in "p*a*tte" (french) - /<a href="https://en.wikipedia.org/wiki/Open_front_unrounded_vowel">a</a>/
 `ε` - Makes an "É" sound as in "j*ä*ger" (german) - /<a href="https://en.wikipedia.org/wiki/Close-mid_front_unrounded_vowel">e</a>/
 `ø` - Makes an "Ø" sound as in "*ø*konomi" (norwegian) - /<a href="https://en.wikipedia.org/wiki/Close-mid_front_rounded_vowel">ø</a>/ or /<a href="https://en.wikipedia.org/wiki/Open-mid_front_rounded_vowel">œ</a>/
@@ -221,12 +220,12 @@ An example of this is with sound tones, I don't want to have an individual lette
 
 I know this isn't the best way to describe these sounds as you may need to know alot of different words in different languages.
 This is why I added those weird letters in shashes.
-If you click on those, it will direct you to a link of a sound clip of that sound being pronounced.
-The whole point of Aŋgliks is to help people learn how to pronounce non-native words from different languages without struggling too much to learn the voicing rules and new letters.
+If you click on those, it will direct you to a link of a wikepidea article with a sound clip.
+The whole point of Aŋgliks is to help people read and pronounce words from different languages without struggling too much to learn the voicing rules and new letters. (however you will still have to lean the words and what they mean).
 /end
 [CLOSURE]
 /start
-"Bestowed with great knowledge of iŋgliks, it is up to you, speaker, to carry forth this piece of wisdom to every corner of the language world. For every letter and word, there exists a new story waiting to be told, a joke waiting to be shared, and a pun waiting to be unleashed upon the unsuspecting world".
+Bestowed with great knowledge of iŋgliks, it is up to you, speaker, to carry forth this piece of wisdom to every corner of the language world. For every letter and word, there exists a new story waiting to be told, a joke waiting to be shared, and a pun waiting to be unleashed upon the unsuspecting world"
 
 <details>
     <summary>What did `e` say to `ï`?</summary>
