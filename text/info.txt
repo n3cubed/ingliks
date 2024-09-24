@@ -48,14 +48,14 @@ A second chance at being in this beautiful *cursed* language.
 
 First off, `c` now makes the common "<a href="https://en.wikipedia.org/wiki/Voiceless_postalveolar_affricate">ch</a>" sound because for some ungodly reason, someone didn't give English a letter for it.
 
-Next, `x` is going to make the "<a href="https://en.wikipedia.org/wiki/Voiceless_postalveolar_fricative">sh</a>" sound because English seems to like the letter 's' alot because they've given it three different sounds "s", "z" and "sh". Come on English, do something useful for once.
+Next, `x` is going to make the "<a href="https://en.wikipedia.org/wiki/Voiceless_postalveolar_fricative">sh</a>" sound because English seems to like the letter 's' a lot because they've given it three different sounds "s", "z" and "sh". Come on English, do something useful for once.
 
 Finally `q` makes the common /<a href="https://en.wikipedia.org/wiki/Mid_central_vowel">ə‍</a>/ sound.
-Fun fact: this is actually one of the most common sounds in the english alphabet and *somehow* there is **no letter for it.**
+Fun fact: this is actually one of the most common sounds in the English alphabet and *somehow* there is **no letter for it.**
 
 Also I have switched 'y' and 'u' up.
 `y` makes the "<a href="https://en.wikipedia.org/wiki/Open-mid_back_unrounded_vowel">u</a>" sound as in "T*u*ck". (It's also now a vowel because it deserves it).
-`u` makes the "<a href="https://en.wikipedia.org/wiki/Close_back_rounded_vowel">oo</a>" sound as in "M*oo*n". (This is just so it's consistent with other languages like spanish and stuff)
+`u` makes the "<a href="https://en.wikipedia.org/wiki/Close_back_rounded_vowel">oo</a>" sound as in "M*oo*n". (This is just so it's consistent with other languages like Spanish and stuff)
 
 Since `y` has had it's sound changed, is old sound is now spelt with the letter "ë" for some unknown reason...          ...wait what-
 
@@ -64,7 +64,7 @@ Since `y` has had it's sound changed, is old sound is now spelt with the letter 
 [THE VOWELS]
 /start
 There are quite a lot of vowels in Iŋgliks, and to be honest, this is the only complicated part about the language.
-There are alot of rules with the vowels and this section will be a guide on how all those rules work.
+There are a lot of rules with the vowels and this section will be a guide on how all those rules work.
 
 For those who are *lazy* and *didn't* read the pronunciation guide, here are all the vowels listed:
 `a`, `ä`, `e`, `ï`, `i`, `o`, `ö`, `q`, `u`, `ü` and `y`.
@@ -81,8 +81,8 @@ Here is an example of how the Fast-Vowel rule works:
 It is not pronounced as "a-oo" as that is two syllables.
 
 This also applies to triple vowels.
-However, it is *extremely* hard to pronounce triple vowels in one syllable aswell as getting all of the sounds meshed in a way so that you cannot simplify it into two vowels instead of three.
-So personally, I would say it would be impossible for an iŋgliks word to have a triple vowel pair, which also means that we cannot have two vowel pairs after each other due to this rule.
+However, it is *extremely* hard to pronounce triple vowels in one syllable as well as getting all of the sounds meshed in a way so that you cannot simplify it into two vowels instead of three.
+So personally, I would say it would be impossible for an Iŋgliks word to have a triple vowel pair, which also means that we cannot have two vowel pairs after each other due to this rule.
 
 Here is a bunch of common vowel pairs that you will normally find in Iŋgliks text:
 `qu` - "<a href="https://thesoundofenglish.org/sound-17/">oh</a>"
@@ -107,7 +107,7 @@ As according to the rule, they must be written as `ëq` and `wq`.
 /start
 Ok, let's go off the vowel rules for a bit and learn what a prime`'` does.
 
-Primes are ESSENTIAL in iŋgliks, they create additional sounds when combined with vowels.
+Primes are ESSENTIAL in Iŋgliks, they create additional sounds when combined with vowels.
 They serve only two purposes:
 
 /end
@@ -138,15 +138,15 @@ Now there are many words that have vowel syllables, some good examples are "b*io
 (b.*ai.oh*.m), (t.r.*ai.uh*.l) and (m.*ei.oh*.n.ei.z).
 
 To get around this problem, we can use the prime.
-The prime will simply seperate the vowel chunks into syllables, just like how I seperated all the syllables in the examples with dots.
+The prime will simply separate the vowel chunks into syllables, just like how I separated all the syllables in the examples with dots.
 
-Now obviously, we're not going to add a prime for EVERY syllable break in EVERY word, that would be unnessecary.
+Now obviously, we're not going to add a prime for EVERY syllable break in EVERY word, that would be unnecessary.
 Instead, we will only use it if it is a vowel chunk and not a vowel pair.
 
 Here is an example for what I mean:
 "b*äïqu*m" becomes "b*äï*'*qu*m".
 
-The prime basically seperates the four-vowel chunk into two smaller vowel pairs.
+The prime basically separates the four-vowel chunk into two smaller vowel pairs.
 This is very useful in Iŋgliks.
 /end
 [DOUBLE LETTERS]
@@ -205,12 +205,12 @@ Introducing "Aŋgliks" letters. This is a set of letters in Iŋgliks that fits f
 Now, these letters may not be 100&#37; perfect for EVERY language.
 An example of this is with sound tones, I don't want to have an individual letter for every single sound tone so languages like Chinese won't work with this, however the majority of them should work fine with them.
 `-they may look extremely cursed though`.
-`ɐ` - Makes an "Á" sound as in "p*a*tte" (french) - /<a href="https://en.wikipedia.org/wiki/Open_front_unrounded_vowel">a</a>/
-`ε` - Makes an "É" sound as in "j*ä*ger" (german) - /<a href="https://en.wikipedia.org/wiki/Close-mid_front_unrounded_vowel">e</a>/
-`ø` - Makes an "Ø" sound as in "*ø*konomi" (norwegian) - /<a href="https://en.wikipedia.org/wiki/Close-mid_front_rounded_vowel">ø</a>/ or /<a href="https://en.wikipedia.org/wiki/Open-mid_front_rounded_vowel">œ</a>/
-`ჲ` - Makes an "Ó" sound as in "h*o*la" (spanish) - /<a href="https://en.wikipedia.org/wiki/Close-mid_back_rounded_vowel">o</a>/
-`ÿ` - Makes an "Ü" sound as in "*ü*ber" (german) - /<a href="https://en.wikipedia.org/wiki/Close_front_rounded_vowel">y</a>/ or /<a href="https://en.wikipedia.org/wiki/Near-close_near-front_rounded_vowel">ʏ</a>/
-`γ` - Makes an "Ů" sound as in "k*õ*rv" (estonian) - /<a href="https://en.wikipedia.org/wiki/Close_back_unrounded_vowel">ɯ</a>/
+`ɐ` - Makes an "Á" sound as in "p*a*tte" (French) - /<a href="https://en.wikipedia.org/wiki/Open_front_unrounded_vowel">a</a>/
+`ε` - Makes an "É" sound as in "j*ä*ger" (German) - /<a href="https://en.wikipedia.org/wiki/Close-mid_front_unrounded_vowel">e</a>/
+`ø` - Makes an "Ø" sound as in "*ø*konomi" (Norwegian) - /<a href="https://en.wikipedia.org/wiki/Close-mid_front_rounded_vowel">ø</a>/ or /<a href="https://en.wikipedia.org/wiki/Open-mid_front_rounded_vowel">œ</a>/
+`ჲ` - Makes an "Ó" sound as in "h*o*la" (Spanish) - /<a href="https://en.wikipedia.org/wiki/Close-mid_back_rounded_vowel">o</a>/
+`ÿ` - Makes an "Ü" sound as in "*ü*ber" (German) - /<a href="https://en.wikipedia.org/wiki/Close_front_rounded_vowel">y</a>/ or /<a href="https://en.wikipedia.org/wiki/Near-close_near-front_rounded_vowel">ʏ</a>/
+`γ` - Makes an "Ů" sound as in "k*õ*rv" (Estonian) - /<a href="https://en.wikipedia.org/wiki/Close_back_unrounded_vowel">ɯ</a>/
 `ϙ` - Makes a "KH" sound as in "τέ*χ*νι" (greek) - /<a href="https://en.wikipedia.org/wiki/Voiceless_velar_fricative">x</a>/
 `ɣ` - Makes a "GH" sound as in "nie*ch*że" (polish) - /<a href="https://en.wikipedia.org/wiki/Voiced_velar_fricative">ɣ</a>/
 `𐑙` - Makes a "RH" sound as in "*r*apide" (french) - /<a href="https://en.wikipedia.org/wiki/Voiced_uvular_fricative">ʁ</a>/
@@ -218,9 +218,9 @@ An example of this is with sound tones, I don't want to have an individual lette
 `r̈` - Makes a "R" sound as in "*r*eden" (dutch) - /<a href="https://en.wikipedia.org/wiki/Voiced_dental_and_alveolar_taps_and_flaps">ɾ</a>/
 `ʀ` - Makes a "RR" sound as in "raaka" (finnish) - /<a href="https://en.wikipedia.org/wiki/Voiced_dental,_alveolar_and_postalveolar_trills#Voiced_alveolar_trill">r</a>/
 
-I know this isn't the best way to describe these sounds as you may need to know alot of different words in different languages.
+I know this isn't the best way to describe these sounds as you may need to know a lot of different words in different languages.
 This is why I added those weird letters in shashes.
-If you click on those, it will direct you to a link of a wikepidea article with a sound clip.
+If you click on those, it will direct you to a link of a Wikipedia article with a sound clip.
 The whole point of Aŋgliks is to help people read and pronounce words from different languages without struggling too much to learn the voicing rules and new letters. (however you will still have to lean the words and what they mean).
 /end
 [CLOSURE]
