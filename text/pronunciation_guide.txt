@@ -21,7 +21,7 @@
 `o` - *o*nto
 `ö` - *or* - Literally makes the `or` sound.
 `p` - *p*ie
-`q` - *u*pon - Makes the most common sound in the english alphabet `/ə‍/` (schwa). Wow, `q` really went from rags to riches.
+`q` - *u*pon - Makes the most common sound in the English alphabet `/ə‍/` (schwa). Wow, `q` really went from rags to riches.
 `r` - *r*otate
 `s` - *s*ee
 `t` - *t*ie
