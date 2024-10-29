@@ -6418,7 +6418,7 @@ bowling	/bˈə‍ʊlɪŋ/
 bowls	/bˈə‍ʊlz/
 bowsprit	/bˈa‍ʊspɹɪt/
 bowstring	/bˈə‍ʊstɹɪŋ/
-bowtie /bəʊˈta‍ɪ/
+bowtie /bə‍ʊˈta‍ɪ/
 bowyer	/bˈə‍ʊa‍ɪɐ/
 box	/bˈɒks/
 boxcar	/bˈɒkskɑː/
@@ -17028,8 +17028,8 @@ dominatrix	/dˌɒmɪnˈe‍ɪtɹɪks/
 domineer	/dˌɒmɪnˈi‍ə/
 domineering	/dˌɒmɪnˈi‍əɹɪŋ/
 doming	/dˈə‍ʊmɪŋ/
-dominion	/dəmˈɪni‍ən/
-dominions	/dəmˈɪni‍ənz/
+dominion	/dəmˈɪnjən/
+dominions	/dəmˈɪnjənz/
 domino	/dˈɒmɪnˌə‍ʊ/
 dominoes	/dˈɒmɪnˌə‍ʊz/
 dominos	/dˈɒmɪnˌə‍ʊz/
@@ -38743,7 +38743,7 @@ oinks	/ˈɔ‍ɪŋks/
 ointment	/ˈɔ‍ɪntmənt/
 ointments	/ˈɔ‍ɪntmənts/
 oi	/ˈɔ‍ɪ/
-ok /əʊˈke‍ɪ/
+ok /ə‍ʊˈke‍ɪ/
 oka	/ˈə‍ʊkɐ/
 okapi	/ˈɒkɐpˌi/
 okayed	/ə‍ʊkˈe‍ɪd/
@@ -42627,7 +42627,7 @@ pneumoconiosis	/njˌuːməkˈə‍ʊnɪˈə‍ʊsɪs/
 pneumonectomy	/njˌuːmənˈɛktəmˌi/
 pneumonia	/njuːmˈə‍ʊni‍ə/
 pneumonic	/njuːmˈɒnɪk/
-pneumonoultramicroscopicsilicovolcanoconiosis	/ˌnjuːmɒnəʊˌʌltrəˌmɪkrə‍ʊˌskɒpɪkˌsɪlɪkəʊvɒlˌkeinəʊˌkəʊniˈəʊsɪs/
+pneumonoultramicroscopicsilicovolcanoconiosis	/ˌnjuːmɒnə‍ʊˌʌltrəˌmɪkrə‍ʊˌskɒpɪkˌsɪlɪkə‍ʊvɒlˌkeinə‍ʊˌkə‍ʊniˈə‍ʊsɪs/
 pneumothorax	/njˈuːməθˌɔːɹæks/
 poached	/pˈə‍ʊt‍ʃt/
 poacher	/pˈə‍ʊt‍ʃɐ/

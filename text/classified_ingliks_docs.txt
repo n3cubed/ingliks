@@ -78,8 +78,8 @@ h - h # "heïc"
 ɦ - h' # "heïc präïm"
 
 Lateral Fricative:
-ɬ - xl # NA
-ɮ - z̈l # NA
+ɬ - ⱡ # NA
+ɮ - ɫ # NA
 
 Approximant:
 ʋ - vw # NA

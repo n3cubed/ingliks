@@ -16,9 +16,9 @@ function copy_to_clipboard(value) {
 // auto_grow(output);
 function translate_now() {
    let input_value = input.value.toLowerCase();
-   input_value = input_value.replace(/[.,\/#?!$@%\^&\*;:{}'=\-_`~()]/g,"")
-   input_value = input_value.replace(/\s{2,}/g," ");
-   input.value = input_value;
+   // input_value = input_value.replace(/[.,\/#?!$@%\^&\*;:{}'=\-_`~()]/g,"")
+   // input_value = input_value.replace(/\s{2,}/g," ");
+   // input.value = input_value;
    fetch('./translate', {
       method: 'POST',
       body: JSON.stringify({'text': input_value}),

@@ -1,5 +1,7 @@
 [PRONUNCIATION GUIDE]
 /start
+
+PLEASE NOTE THAT THIS IS FOR BRITTISH PRONUNCIATION, AMERICAN PRONUNCIATION WILL PROBABLY COME LATER (Although I have tried to make it as easy to follow as I can).
 `a` - *a*sh
 `ä` - c*a*r - This letter can change your spelling depending on how you pronounce the word. E.g. "bäth" / "bath"
 `b` - *b*ug
@@ -18,7 +20,7 @@
 `m` - *m*ove
 `n` - *n*ice
 `ŋ` - thi*n*g - This letter is one of those nasal sounds like `m` and `n`.
-`o` - *o*nto
+`o` - g*o*ld - Makes that `o` diphthong for all you american idiots. Your old `o` sound has been replaced with `ä`, have fun :).
 `ö` - *or* - Literally makes the `or` sound.
 `p` - *p*ie
 `q` - *u*pon - Makes the most common sound in the English alphabet `/ə‍/` (schwa). Wow, `q` really went from rags to riches.
@@ -43,3 +45,9 @@ copy(ä) copy(ë) copy(ï) copy(ö) copy(ü) copy(z̈) copy(ž) copy(ŋ) copy(þ
 
 You don't really need the capital letters, but here they are anyway, if you really want them.
 copy(Ä) copy(Ë) copy(Ï) copy(Ö) copy(Ü) copy(Z̈) copy(Ž) copy(Ŋ) copy(Þ) copy(Ð)
+
+Extra Aŋgliks letters that have litterally no meaning to you:
+copy(ɐ) copy(ε) copy(ჲ) copy(ø) copy(ÿ) copy(ɐ̃) copy(ε̃) copy(ĩ) copy(ჲ̃) copy(ø̃) copy(ũ) copy(ϙ) copy(ж) copy(r̈) copy(ʀ) copy(ɣ) copy(փ) copy(γ) copy(f̈) copy(v̈) copy(k̈) copy(g̈) copy(𐑙) copy(ç) copy(b̈)
+
+Here's the uppercase of those for even more useless stuff:
+copy(Ɐ) copy(Ɛ) copy(O̭) copy(Ø) copy(Ÿ) copy(Ɐ̃) copy(Ɛ̃) copy(Ĩ) copy(Õ̭) copy(Ø̃) copy(Ũ) copy(Ϙ) copy(Ж) copy(R̈) copy(Ʀ) copy(Ɣ) copy(Փ) copy(ץ) copy(F̈) copy(V̈) copy(K̈) copy(G̈) copy(﷽) copy(Ç) copy(B̈)

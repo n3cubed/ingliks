@@ -3,33 +3,32 @@ import re
 
 dictionary = { 
   # long vowels
-
-   "ɑː": "ä", # as in cA
-   "ɜː": "q'", # as in bIRd
-   "iː": "ï", # as in kEY
-   "ɔː": "ö", # as in tOUR
-   "uː": "u", # as in mOOn
-
+   
+   "iːe‍": "ï'e", # prime fix
+   "ɑː": "ä", # AHH
+   "ɜː": "q'", # UHH
+   "iː": "ï", # EE
+   "ɔː": "ö", # OR
+   "uː": "u", # OO
+   
   # diphthong 
 
-   "e‍ə": "e'", # as in hAIR
-   "a‍ɪ": "äï", # as in hIGH
-   "ɪə‍": "ï'q", # as in serIAl
-   "iə‍": "i'", # as in hERE
-   "i‍ə": "i'", # as in hERE
-   "ə‍ʊ": "qu", # as in bOAt
-   "əʊ": "qu", # as in bOAt
-   "aʊ": "au", # as in nOW
-   "a‍ʊ": "au", # as in nOW
-   "oʊ": "qu", # as in bOAt
-   "e‍ɪ": "eï", # as in hEY
-   "ɔɪ": "öï", # as in OIl
-   "ʊə‍": "u'q", # as in tOUr (posh)
+   "ʊə‍": "u'q", # prime fix
+   "ɪə‍": "ï'q", # prime fix
+   
+   "e‍ə": "e'", # AIR
+   "i‍ə": "i'", # ERE
+   "a‍ɪ": "äï", # AI
+   "ə‍ʊ": "qu", # O
+   "a‍ʊ": "au", # AU
+   "e‍ɪ": "eï", # EI
+   "ɔɪ": "öï", # OI
 
    # double consonants
 
-   "t‍ʃ": "c", # as in CHat
-   "d‍ʒ": "j", # as in Jug
+   "t‍ʃ": "c", # CH
+   "d‍ʒ": "j", # J
+   "tɹ": "cr", # TR
 
   # smiley face
 
@@ -37,53 +36,53 @@ dictionary = {
 
   # short vowels
 
-   "æ": "a", # as in cAt
-   "ɛ": "e", # as in bEd
-   "i": "ï", # as in tEA
-   "ɪ": "i", # as in tIp
-   "ɒ": "o", # as in nOt
-   "ɔ": "ö", # as in mORE
-   "ʌ": "y", # as in sUn
-   "ʊ": "ü", # as in bOOk
-   "ə": "q", # as in Upon
-   "ɐ": "q", # as in Upon 
+   "æ": "a", # A
+   "ɛ": "e", # E
+   "i": "ï", # EE
+   "ɪ": "i", # I
+   "ɒ": "o", # O
+   "ɔ": "ö", # OR
+   "ʌ": "y", # U
+   "ʊ": "ü", # OUH
+   "ə": "q", # UH
+   "ɐ": "q", # UH
 
   # voiced opposites
 
-   "p": "p", # as in Pie
-   "b": "b", # as in Buy
+   "p": "p", # P
+   "b": "b", # B
 
-   "k": "k", # as in Cool
-   "ɡ": "g", # as in Ghoul
+   "k": "k", # K
+   "ɡ": "g", # G
 
-   "f": "f", # as in Fine
-   "v": "v", # as in Vine
+   "f": "f", # F
+   "v": "v", # V
 
-   "t": "t", # as in Too
-   "d": "d", # as in Do
+   "t": "t", # T
+   "d": "d", # D
 
-   "s": "s", # as in Sue
-   "z": "z", # as in Zoo
+   "s": "s", # S
+   "z": "z", # Z
 
-   "θ": "þ", # as in THink
-   "ð": "ð", # as in THat
+   "θ": "þ", # TH
+   "ð": "ð", # TH
 
-   "ʃ": "x", # as in SHy
-   "ʒ": "z̈", # as in viSion
+   "ʃ": "x", # SH
+   "ʒ": "z̈", # ZH
 
   # nasal sounds
 
-   "m": "m", # as in Mine
-   "n": "n", # as in Nice
-   "ŋ": "ŋ", # as in siNG
+   "m": "m", # M
+   "n": "n", # N
+   "ŋ": "ŋ", # NG
 
   # odd sounds
 
-   "h": "h", # as in Hello
-   "l": "l", # as in veLar
-   "ɹ": "r", # as in Race
-   "w": "w", # as in WHen
-   "j": "ë" # as in Yet
+   "h": "h", # H
+   "l": "l", # L
+   "ɹ": "r", # R
+   "w": "w", # W
+   "j": "ë" # Y
 }
 
 class Translator:
@@ -97,7 +96,6 @@ class Translator:
       self.dict_single = open("./py/en_UK_single.txt", "r", encoding="utf8").read().splitlines()
 
      
-
    def replace_substring(self, s, start, end, replacement):
       return s[:start] + replacement + s[end:]
 
@@ -109,7 +107,7 @@ class Translator:
         translated.append('"' + word + '"')
         not_in_dict.append(word)
         return translated
-        
+
       words = sentence.lower().split()
       translated = []
 
