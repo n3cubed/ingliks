@@ -46,7 +46,7 @@ function translate_now() {
          }
      })
      .catch((error) => {
-            warning.textContent = "Server Error: ";
+            warning.textContent = "Server Error: " + error;
             warning.style.display = "block"
      });
 }
